@@ -5,7 +5,7 @@ and manage machine learning models. This index should assist in navigating the A
 Machine Learning notebook samples and encourage efficient retrieval of topics and content.
 ![Impressions](https://PixelServer20190423114238.azurewebsites.net/api/impressions/MachineLearningNotebooks/Index.png)
 
-## Getting Started Updated
+## Getting Started Updated 1
 
 |Title| Task | Dataset | Training Compute | Deployment Target | ML Framework | Tags |
 |:----|:-----|:-------:|:----------------:|:-----------------:|:------------:|:------------:|
